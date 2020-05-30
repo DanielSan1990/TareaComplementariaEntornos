@@ -24,7 +24,6 @@ _Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios
 
 ## Capturas 📌
 
-![consola_menu](https://github.com/DanielSan1990/TareaComplementariaEntornos/blob/master/Captura_1.PNG)
 
 
 ## Gracias por acceder a la aplicación 🎁
