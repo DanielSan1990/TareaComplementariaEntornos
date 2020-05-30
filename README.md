@@ -23,13 +23,7 @@ _Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios
 
 
 ## Capturas 📌
-![consola](https://github.com/DanielSan1990/TareaComplementariaEntornos/blob/master/Captura_1.PNG)
 
-
-![consola](https://github.com/DanielSan1990/TareaComplementariaEntornos/blob/master/Captura_2.PNG)
-
-
-![consola](https://github.com/DanielSan1990/TareaComplementariaEntornos/blob/master/Captura_3.PNG)
 
 
 
