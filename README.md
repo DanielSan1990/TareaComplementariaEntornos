@@ -21,4 +21,4 @@ _Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios
 
 * **Daniel San Luis** 
 
-![ScreenShot](/Captura_1.png)
+![ScreenShot](Captura_1.png)
