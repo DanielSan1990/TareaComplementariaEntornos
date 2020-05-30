@@ -1,8 +1,7 @@
 # TareaComplementariaEntornos
 
-Práctica de Entornos de Desarrolo
+###Práctica de entronos de desarrollo
 
-Stack Tecnológico
-
-JAVA  
-JDK VERSION 1.8
+##Stack Tecnológico
+**JAVA**  
+*JDK 1.8
