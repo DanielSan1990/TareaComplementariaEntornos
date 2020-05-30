@@ -1,10 +1,10 @@
 # TareaComplementariaEntornos
 
 _Práctica de entronos de desarrollo: Se trata de aplicación que simula el inventario de una tienda, 
-la cual genera un menú por consola donde trendrémos tres opciones a escoger,
-1) LLenar el almacen,
-2)Mostrar el inventario
-3)Salir de la ap`licación_
+la cual genera un menú por consola donde trendrémos tres opciones a escoger_
+1) LLenar el almacen
+2) Mostrar el inventario
+3) Salir de la aplicación
 
 
 ## Construido con 🛠️
