@@ -21,4 +21,4 @@ _Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios
 
 * **Daniel San Luis** 
 
-![alt text](https://github.com/DanielSan1990/TareaComplementariaEntornos/Captura_1.png)
+![alt text](https://github.com/DanielSan1990/TareaComplementariaEntornos/master/Captura_1.png)
