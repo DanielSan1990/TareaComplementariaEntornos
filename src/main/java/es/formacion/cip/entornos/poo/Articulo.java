@@ -9,8 +9,8 @@ package es.formacion.cip.entornos.poo;
  */
 public class Articulo {
     private int id;
-    protected String nombre;
-    protected double precio;
+    private String nombre;
+    private double precio;
 
     /**
      *Constructor de la clase articulo
@@ -34,5 +34,20 @@ public class Articulo {
                 "Nombre:'" + nombre + '\'' +
                 ", Precio: " + precio  ;
     }
+
+    public int getId() {
+        return id;
+    }
+
+
+    public String getNombre() {
+        return nombre;
+    }
+
+
+    public double getPrecio() {
+        return precio;
+    }
+
 
 }
