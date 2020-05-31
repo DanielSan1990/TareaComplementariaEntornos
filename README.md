@@ -17,12 +17,17 @@ la cual genera un menú por consola donde trendrémos tres opciones a escoger_
 
 ## Autores ✒️
 
-_Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
 
 * **Daniel San Luis** 
 
 
 ## Capturas 📌
+
+![alt text](https://github.com/DanielSan1990/TareaComplementariaEntornos/blob/master/Capturas/Captura_1.PNG)
+
+![alt text](https://github.com/DanielSan1990/TareaComplementariaEntornos/blob/master/Capturas/Captura_2.PNG)
+
+![alt text](https://github.com/DanielSan1990/TareaComplementariaEntornos/blob/master/Capturas/Captura_3.PNG)
 
 
 
